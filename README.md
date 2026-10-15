@@ -30,4 +30,4 @@ and check the total number of tasks.
 
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
