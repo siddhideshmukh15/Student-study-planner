@@ -28,6 +28,6 @@ A simple Python project to organize study tasks and track daily progress.
 - Organize tasks by subject
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
 
 
