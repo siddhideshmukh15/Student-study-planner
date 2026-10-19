@@ -1,16 +1,16 @@
 
-
 # Student Study Planner
 
 ## Description
-A simple Python project that helps students organize study tasks and track their completion.
+A simple Python project to organize study tasks and track daily progress.
 
 ## Features
 - Add study tasks
 - View all tasks
 - Mark tasks as completed
-- Display task status
-- Menu-driven interface
+- Delete tasks
+- Track completed and pending tasks
+- Calculate progress percentage
 
 ## Technologies Used
 - Python 3
@@ -19,14 +19,15 @@ A simple Python project that helps students organize study tasks and track their
 - Lists and dictionaries
 - Loops and conditional statements
 - User input and output
-- `enumerate()` and list indexing
+- Functions like `enumerate()` and `len()`
 - Exception handling
 
 ## Future Improvements
-- Delete tasks
-- Add deadlines and reminders
 - Save tasks permanently in a file
+- Add deadlines and reminders
+- Organize tasks by subject
 
 ## Author
 **Siddhi Deshmukh**
+
 
